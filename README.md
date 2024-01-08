@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @juliangrtz.
-- 🔙 I’m interested in software and x86 + ARM reverse engineering.
-- 👨‍🎓 I’m currently studying computer science and obtaining a useless degree.
+- 👋 Hello, hallo, Здравствуйте, hola!
+- 🔙 My name is Julian. I am interested in software and reverse engineering on the x86 and ARM architecture.
+- 👨‍🎓 I am currently studying computer science.
 
 <!---
 juliangrtz/juliangrtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
