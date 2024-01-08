@@ -1,7 +1,8 @@
 - 👋 Hello, hallo, Здравствуйте, hola!
 - 🔙 My name is Julian. I am interested in software and reverse engineering on the x86 and ARM architecture.
+- ⚔️ My interest in reverse engineering mainly emerged from games like Clash of Clans and Minecraft.
 - 👨‍🎓 I am currently studying computer science.
-- ✍️ Feel free to take a look at my blog: https://juliangrtz.me/
+- ✍️ Feel free to take a look at my tech blog: https://juliangrtz.me/
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juliangrtz)](https://github.com/anuraghazra/github-readme-stats)
 
