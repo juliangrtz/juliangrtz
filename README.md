@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juliangrtz
+- 👋 Hi, I’m @juliangrtz.
 - 🔙 I’m interested in software and x86 + ARM reversing engineering.
 - 👨‍🎓 I’m currently studying computer science and obtaining a useless degree.
 
