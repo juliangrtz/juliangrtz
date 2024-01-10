@@ -1,4 +1,4 @@
-- 👋 Hello, hallo, Здравствуйте, ciao, hola, bonjour!
+- 👋 Hello, hallo, Здравствуйте, ciao, hola, bonjour, 你好, こんにちは!
 - 🔙 My name is Julian. I am interested in software and reverse engineering on the x86 and ARM architecture.
 - ⚔️ My interest in reverse engineering mainly emerged from games like Clash of Clans and Minecraft.
 - 👨‍🎓 I am currently studying computer science.
