@@ -3,8 +3,8 @@
 - ⚔️ My interest in reverse engineering mainly emerged from games like Clash of Clans and Minecraft.
 - 👨‍🎓 I am currently studying computer science.
 - ✍️ Feel free to take a look at my tech blog: https://juliangrtz.me/
-  - [10/01/2024] [MightyXOR](https://juliangrtz.me/2024/01/10/mightyxor/)
-  - [10/01/2024] [frida-iOS-syscall-tracer](https://juliangrtz.me/2024/01/10/frida-ios-syscall-tracer/)
+  - [10/01/2024] <a href="https://juliangrtz.me/2024/01/10/mightyxor/" target="_blank">MightyXOR</a>
+  - [10/01/2024] <a href="https://juliangrtz.me/2024/01/10/frida-ios-syscall-tracer/" target="_blank">frida-iOS-syscall-tracer</a>
 
 <br>
 
