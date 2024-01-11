@@ -5,7 +5,7 @@
 - ✍️ Feel free to take a look at my technical blog: https://juliangrtz.me/
   - Note: These links are not opened in a new tab. Press Ctrl while clicking them if you want to open them in a new tab.
   - [10/01/2024] <a href="https://juliangrtz.me/2024/01/10/mightyxor/" target="_blank">MightyXOR – an introduction</a>
-  - [10/01/2024] <a href="https://juliangrtz.me/2024/01/10/frida-ios-syscall-tracer/" target="_blank">frida-iOS-syscall-tracer</a>
+  - [11/01/2024] <a href="https://juliangrtz.me/2024/01/10/frida-ios-syscall-tracer/" target="_blank">frida-iOS-syscall-tracer</a>
 
 <br>
 
