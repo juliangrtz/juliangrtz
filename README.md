@@ -1,11 +1,10 @@
-- 👋 Hello, hallo, Здравствуйте, ciao, hola, bonjour, 你好, こんにちは!
-- 🔙 My name is Julian. I am interested in software and reverse engineering on the x86 and ARM architecture.
-- ⚔️ My interest in reverse engineering mainly emerged from games like Clash of Clans and Minecraft.
-- 👨‍🎓 I am currently studying computer science.
+- 👋 Hello, hallo, ciao, hola, bonjour, Здравствуйте, 你好, こんにちは!
+- 🔙 My name is Julian. I am interested in software development and reverse engineering on the x86 and ARM architectures.
+- 🍎 Currently, I am focussing on iOS.
 - ✍️ Feel free to take a look at my technical blog: https://juliangrtz.me/
-  - Note: These links are not opened in a new tab. Press Ctrl while clicking them if you want to open them in a new tab.
-  - [10/01/2024] <a href="https://juliangrtz.me/2024/01/10/mightyxor/" target="_blank">MightyXOR – an introduction</a>
+  - Note: These links are not opened in a new tab because `target="_blank"` does not work for some reason. Press Ctrl while clicking them if you want to open them in a new tab.
   - [11/01/2024] <a href="https://juliangrtz.me/2024/01/11/frida-ios-syscall-tracer/" target="_blank">frida-iOS-syscall-tracer</a>
+  - [10/01/2024] <a href="https://juliangrtz.me/2024/01/10/mightyxor/" target="_blank">MightyXOR – an introduction</a>
 
 <br>
 
