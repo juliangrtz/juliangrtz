@@ -10,7 +10,7 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juliangrtz)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=juliangrtz)
+![](https://komarev.com/ghpvc/?username=juliangrtz&label=short+profileViews+=);
 
 <!---
 juliangrtz/juliangrtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
