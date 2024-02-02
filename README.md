@@ -1,6 +1,5 @@
 - 👋 Hello, hallo, ciao, hola, bonjour, Здравствуйте, 你好, こんにちは!
 - ℹ️ My name is Julian. I am interested in software development, game development and reverse engineering.
-- 🍎 Currently, I am focussing on iOS.
 - ✍️ Feel free to take a look at my technical blog: https://juliangrtz.me/
   - Note: These links are not opened in a new tab because `target="_blank"` does not work for some reason. Press Ctrl while clicking them if you want to open them in a new tab.
   - [24/01/2024] <a href="https://juliangrtz.me/2024/01/24/removepie/" target="_blank">Removing ASLR in iOS applications</a>
