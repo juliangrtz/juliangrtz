@@ -8,7 +8,7 @@
 
 <br>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juliangrtz)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juliangrtz&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=juliangrtz&label=short+profileViews+=);
 
