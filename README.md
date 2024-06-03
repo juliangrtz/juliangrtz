@@ -6,13 +6,10 @@
   - [11/01/2024] <a href="https://juliangrtz.me/2024/01/11/frida-ios-syscall-tracer/" target="_blank">frida-iOS-syscall-tracer</a>
   - [10/01/2024] <a href="https://juliangrtz.me/2024/01/10/mightyxor/" target="_blank">MightyXOR – an introduction</a>
 
+<!---
 <br>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=juliangrtz&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=juliangrtz&label=short+profileViews+=);
-
-<!---
-juliangrtz/juliangrtz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
