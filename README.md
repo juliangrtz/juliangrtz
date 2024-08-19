@@ -5,6 +5,7 @@
   - [24/01/2024] <a href="https://juliangrtz.me/2024/01/24/removepie/" target="_blank">Removing ASLR in iOS applications</a>
   - [11/01/2024] <a href="https://juliangrtz.me/2024/01/11/frida-ios-syscall-tracer/" target="_blank">frida-iOS-syscall-tracer</a>
   - [10/01/2024] <a href="https://juliangrtz.me/2024/01/10/mightyxor/" target="_blank">MightyXOR – an introduction</a>
+  - [19/08/2024] <a href="https://juliangrtz.me/2024/08/19/re_seminar/" target="_blank">My experiences holding a reverse engineering seminar</a>
 
 <!---
 <br>
