@@ -1,4 +1,4 @@
-- 👋 Hello, hallo, ciao, hola, bonjour, Здравствуйте, 你好, こんにちは!
+- 👋 Hello!
 - ℹ️ My name is Julian. I am interested in software development, game development and reverse engineering.
 - ✍️ Feel free to take a look at my technical blog: https://juliangrtz.me/
   - [10/01/2024] <a href="https://juliangrtz.me/2024/01/10/mightyxor/" target="_blank">MightyXOR – an introduction</a>
