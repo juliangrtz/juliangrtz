@@ -1,5 +1,6 @@
 - 👋 Hello!
 - ℹ️ My name is Julian. I am interested in software development, game development and reverse engineering.
+- 🧟 In my free time I enjoy working on [BioRand](https://biorand.net/) projects.
 - ✍️ Feel free to take a look at my technical blog: https://juliangrtz.me/
   - [17/06/2026] <a href="https://juliangrtz.me/2026/06/17/fake_re9_mod/" target="_blank">I Installed a Fake Resident Evil Mod and Got Pwnd</a>
   - [15/10/2025] <a href="https://juliangrtz.me/2025/10/15/frida-banking-app/" target="_blank">Defeating a banking app's anti-RE measures</a>
